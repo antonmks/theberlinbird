@@ -1,3 +1,4 @@
+## To demonstrate the database language embeddings in implementing documents search with LLM
 import newspaper
 import json
 import os
